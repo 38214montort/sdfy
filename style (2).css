@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+
+#navbar{
+    height: 100px;
+    background-color:rgb(168, 193, 177);
+    padding-left: 30px ;
+    padding-top: 30px;
+}
+
+#hero{
+    height: calc(100vh - 80px);
+    background-color:rgb(113, 134, 128);
+    background-image:url(https://www.art-prints-on-demand.com/kunst/claude_monet/field-of-yellow-Irises-at-giverny.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+   
+}
+
+#logo{
+    height: 80px;
+}
+
+li{
+    list-style-type:none;
+    display: inline;
+    margin-left: 70px;
+
+}
+
+ul{
+    float: right;
+    margin-top: 30px
+}
+
+button{
+    float:right;
+}
